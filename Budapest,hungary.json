@@ -1,0 +1,122 @@
+[
+    {
+        "Day": "Today",
+        "High": "72°",
+        "Low": "58°",
+        "Weather": "Light Rain",
+        "Percip": "88%",
+        "Wind": "NW 18 mph"
+    },
+    {
+        "Day": "Mon 01",
+        "High": "86°",
+        "Low": "62°",
+        "Weather": "Mostly Sunny",
+        "Percip": "8%",
+        "Wind": "NW 10 mph"
+    },
+    {
+        "Day": "Tue 02",
+        "High": "88°",
+        "Low": "63°",
+        "Weather": "Partly Cloudy",
+        "Percip": "5%",
+        "Wind": "NNW 7 mph"
+    },
+    {
+        "Day": "Wed 03",
+        "High": "89°",
+        "Low": "65°",
+        "Weather": "Mostly Sunny",
+        "Percip": "5%",
+        "Wind": "NNW 4 mph"
+    },
+    {
+        "Day": "Thu 04",
+        "High": "92°",
+        "Low": "66°",
+        "Weather": "Sunny",
+        "Percip": "1%",
+        "Wind": "SE 5 mph"
+    },
+    {
+        "Day": "Fri 05",
+        "High": "95°",
+        "Low": "66°",
+        "Weather": "Sunny",
+        "Percip": "0%",
+        "Wind": "S 7 mph"
+    },
+    {
+        "Day": "Sat 06",
+        "High": "89°",
+        "Low": "64°",
+        "Weather": "Partly Cloudy",
+        "Percip": "24%",
+        "Wind": "NNW 9 mph"
+    },
+    {
+        "Day": "Sun 07",
+        "High": "86°",
+        "Low": "63°",
+        "Weather": "Partly Cloudy",
+        "Percip": "10%",
+        "Wind": "N 7 mph"
+    },
+    {
+        "Day": "Mon 08",
+        "High": "84°",
+        "Low": "62°",
+        "Weather": "PM Showers",
+        "Percip": "33%",
+        "Wind": "NNE 8 mph"
+    },
+    {
+        "Day": "Tue 09",
+        "High": "84°",
+        "Low": "61°",
+        "Weather": "Partly Cloudy",
+        "Percip": "15%",
+        "Wind": "NNE 8 mph"
+    },
+    {
+        "Day": "Wed 10",
+        "High": "82°",
+        "Low": "61°",
+        "Weather": "PM Showers",
+        "Percip": "37%",
+        "Wind": "N 8 mph"
+    },
+    {
+        "Day": "Thu 11",
+        "High": "83°",
+        "Low": "61°",
+        "Weather": "Partly Cloudy",
+        "Percip": "19%",
+        "Wind": "N 8 mph"
+    },
+    {
+        "Day": "Fri 12",
+        "High": "83°",
+        "Low": "61°",
+        "Weather": "Partly Cloudy",
+        "Percip": "15%",
+        "Wind": "N 8 mph"
+    },
+    {
+        "Day": "Sat 13",
+        "High": "85°",
+        "Low": "62°",
+        "Weather": "Partly Cloudy",
+        "Percip": "15%",
+        "Wind": "N 8 mph"
+    },
+    {
+        "Day": "Sun 14",
+        "High": "88°",
+        "Low": "64°",
+        "Weather": "Partly Cloudy",
+        "Percip": "13%",
+        "Wind": "NW 6 mph"
+    }
+]
